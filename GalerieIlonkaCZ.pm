@@ -17,7 +17,7 @@ Readonly::Scalar my $GILONKA_CZ => 'http://www.galerie-ilonka.cz';
 Readonly::Scalar my $GILONKA_CZ_ACTION1 => '/galerie-ilonka/0/0/3/42/9/0/?hledatjak=2';
 
 # Version.
-our $VERSION = 0.01;
+our $VERSION = 0.02;
 
 # Setup.
 sub native_setup_search {
@@ -184,6 +184,6 @@ BSD license.
 
 =head1 VERSION
 
-0.01
+0.02
 
 =cut
